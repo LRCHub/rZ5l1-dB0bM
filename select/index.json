@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "せかいのしくみ",
+  "base_artist": "Guiano",
+  "createdAt": "2026-02-13T19:24:10.584028Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "せかいのしくみ",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_せかいのしくみ_Guiano.txt"
+    }
+  ]
+}
